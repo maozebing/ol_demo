@@ -1,0 +1,1305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.68991486877276,
+          34.71165844252463
+        ]
+      },
+      "properties": {
+        "name": "资源01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.92683579611162,
+          34.42423722651136
+        ]
+      },
+      "properties": {
+        "name": "资源11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.81238252742229,
+          34.35180806217209
+        ]
+      },
+      "properties": {
+        "name": "资源21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27127512939349,
+          34.09413877843796
+        ]
+      },
+      "properties": {
+        "name": "资源31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.60748629357515,
+          34.32427934130438
+        ]
+      },
+      "properties": {
+        "name": "资源41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.43060038737369,
+          34.494457094022465
+        ]
+      },
+      "properties": {
+        "name": "资源51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.52119178094354,
+          34.89073361448586
+        ]
+      },
+      "properties": {
+        "name": "资源61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24453942490457,
+          34.45990138371002
+        ]
+      },
+      "properties": {
+        "name": "资源71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.58951695525151,
+          34.0205087508444
+        ]
+      },
+      "properties": {
+        "name": "资源81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.45228397725401,
+          34.093928407519385
+        ]
+      },
+      "properties": {
+        "name": "资源91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4483189966999,
+          34.97604937842387
+        ]
+      },
+      "properties": {
+        "name": "资源101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.56663584081765,
+          34.81347736544196
+        ]
+      },
+      "properties": {
+        "name": "资源111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32295812821398,
+          34.531043529167704
+        ]
+      },
+      "properties": {
+        "name": "资源121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.80929450796897,
+          34.65880895978063
+        ]
+      },
+      "properties": {
+        "name": "资源131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.73757193819597,
+          34.34889784785867
+        ]
+      },
+      "properties": {
+        "name": "资源141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.71958996014662,
+          34.11234972061309
+        ]
+      },
+      "properties": {
+        "name": "资源151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20548295280905,
+          34.71753911715518
+        ]
+      },
+      "properties": {
+        "name": "资源161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.41662127158857,
+          34.75770688724898
+        ]
+      },
+      "properties": {
+        "name": "资源171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11455735025389,
+          34.88732903485058
+        ]
+      },
+      "properties": {
+        "name": "资源181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.42474533908252,
+          34.36745654365567
+        ]
+      },
+      "properties": {
+        "name": "资源191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0823993196883,
+          34.87725617527508
+        ]
+      },
+      "properties": {
+        "name": "资源201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20789177193933,
+          34.202479971145884
+        ]
+      },
+      "properties": {
+        "name": "资源211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.792887415477,
+          34.109045684942174
+        ]
+      },
+      "properties": {
+        "name": "资源221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.55868551116312,
+          34.3849857083504
+        ]
+      },
+      "properties": {
+        "name": "资源231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.61854860774685,
+          34.88215858997704
+        ]
+      },
+      "properties": {
+        "name": "资源241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16019867060676,
+          34.28490579266119
+        ]
+      },
+      "properties": {
+        "name": "资源251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.43393830256798,
+          34.628685417935564
+        ]
+      },
+      "properties": {
+        "name": "资源261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0292621736133,
+          34.5188063521875
+        ]
+      },
+      "properties": {
+        "name": "资源271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.40775095240274,
+          34.0822106213758
+        ]
+      },
+      "properties": {
+        "name": "资源281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24153209488037,
+          34.72437421279554
+        ]
+      },
+      "properties": {
+        "name": "资源291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20745715037255,
+          34.77021423515479
+        ]
+      },
+      "properties": {
+        "name": "资源301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.96675290688992,
+          34.297608986758654
+        ]
+      },
+      "properties": {
+        "name": "资源311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.06025903453529,
+          34.501472741141136
+        ]
+      },
+      "properties": {
+        "name": "资源321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.65008935362368,
+          34.76604957414025
+        ]
+      },
+      "properties": {
+        "name": "资源331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25173644272657,
+          34.47368765206075
+        ]
+      },
+      "properties": {
+        "name": "资源341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.68584740810832,
+          34.00520739063885
+        ]
+      },
+      "properties": {
+        "name": "资源351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7646483849416,
+          34.66602154418195
+        ]
+      },
+      "properties": {
+        "name": "资源361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.85511947524411,
+          34.04854904141746
+        ]
+      },
+      "properties": {
+        "name": "资源371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20604670322822,
+          34.29946707558406
+        ]
+      },
+      "properties": {
+        "name": "资源381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30951109777607,
+          34.72988388296484
+        ]
+      },
+      "properties": {
+        "name": "资源391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30981500719123,
+          34.325294822035566
+        ]
+      },
+      "properties": {
+        "name": "资源401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.64557929305492,
+          34.687750800674024
+        ]
+      },
+      "properties": {
+        "name": "资源411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6156097091167,
+          34.5030788712635
+        ]
+      },
+      "properties": {
+        "name": "资源421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83136666734283,
+          34.51005866308136
+        ]
+      },
+      "properties": {
+        "name": "资源431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.12819499559762,
+          34.446732126610925
+        ]
+      },
+      "properties": {
+        "name": "资源441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.54200026594756,
+          34.330116720279484
+        ]
+      },
+      "properties": {
+        "name": "资源451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.01334062190607,
+          34.19263428500278
+        ]
+      },
+      "properties": {
+        "name": "资源461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6845214746868,
+          34.786309967216546
+        ]
+      },
+      "properties": {
+        "name": "资源471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.44688360076381,
+          34.47139752746212
+        ]
+      },
+      "properties": {
+        "name": "资源481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1257831852764,
+          34.88303658326318
+        ]
+      },
+      "properties": {
+        "name": "资源491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.54430196243854,
+          34.299409684919056
+        ]
+      },
+      "properties": {
+        "name": "资源501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.78647197424442,
+          34.55939019345386
+        ]
+      },
+      "properties": {
+        "name": "资源511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.80487823680932,
+          34.08520588841192
+        ]
+      },
+      "properties": {
+        "name": "资源521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.75612741975816,
+          34.97531726691338
+        ]
+      },
+      "properties": {
+        "name": "资源531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.68405897378622,
+          34.48399183790113
+        ]
+      },
+      "properties": {
+        "name": "资源541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.35975354290095,
+          34.79530207370588
+        ]
+      },
+      "properties": {
+        "name": "资源551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.03847120965946,
+          34.566532471879285
+        ]
+      },
+      "properties": {
+        "name": "资源561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.59582234187255,
+          34.44025583943115
+        ]
+      },
+      "properties": {
+        "name": "资源571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.905406360619,
+          34.8037065067473
+        ]
+      },
+      "properties": {
+        "name": "资源581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.40305334353098,
+          34.659036747890376
+        ]
+      },
+      "properties": {
+        "name": "资源591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.64130781979958,
+          34.514634436461584
+        ]
+      },
+      "properties": {
+        "name": "资源601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.59347228570661,
+          34.21367048151146
+        ]
+      },
+      "properties": {
+        "name": "资源611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7175159559666,
+          34.715299631786436
+        ]
+      },
+      "properties": {
+        "name": "资源621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.77719644198102,
+          34.954435304438455
+        ]
+      },
+      "properties": {
+        "name": "资源631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.53751249549782,
+          34.307262805783225
+        ]
+      },
+      "properties": {
+        "name": "资源641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.00581554161248,
+          34.00517734378161
+        ]
+      },
+      "properties": {
+        "name": "资源651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.89292335222385,
+          34.45481825105708
+        ]
+      },
+      "properties": {
+        "name": "资源661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.92888339020791,
+          34.33077587186856
+        ]
+      },
+      "properties": {
+        "name": "资源671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.84682338525562,
+          34.193919262265155
+        ]
+      },
+      "properties": {
+        "name": "资源681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32122932472848,
+          34.730770768315175
+        ]
+      },
+      "properties": {
+        "name": "资源691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.875323588357,
+          34.972614874989056
+        ]
+      },
+      "properties": {
+        "name": "资源701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.53911192028656,
+          34.739084627108326
+        ]
+      },
+      "properties": {
+        "name": "资源711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28683953464922,
+          34.797637609814835
+        ]
+      },
+      "properties": {
+        "name": "资源721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.06000537183594,
+          34.3833405800638
+        ]
+      },
+      "properties": {
+        "name": "资源731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16326011962795,
+          34.472612091634865
+        ]
+      },
+      "properties": {
+        "name": "资源741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.48446293717474,
+          34.97923838881128
+        ]
+      },
+      "properties": {
+        "name": "资源751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23372927636723,
+          34.067857229975814
+        ]
+      },
+      "properties": {
+        "name": "资源761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.49707378901188,
+          34.40793180658323
+        ]
+      },
+      "properties": {
+        "name": "资源771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.61821737569078,
+          34.62140540283067
+        ]
+      },
+      "properties": {
+        "name": "资源781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23914947997156,
+          34.0259066328984
+        ]
+      },
+      "properties": {
+        "name": "资源791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.97902389545125,
+          34.91850697738151
+        ]
+      },
+      "properties": {
+        "name": "资源801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7636016995463,
+          34.64184626690056
+        ]
+      },
+      "properties": {
+        "name": "资源811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.08831880098468,
+          34.59486510115134
+        ]
+      },
+      "properties": {
+        "name": "资源821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.89261971732829,
+          34.828384605834955
+        ]
+      },
+      "properties": {
+        "name": "资源831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22793499601427,
+          34.25151380552361
+        ]
+      },
+      "properties": {
+        "name": "资源841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.48192281273172,
+          34.69229143183372
+        ]
+      },
+      "properties": {
+        "name": "资源851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.50486197533982,
+          34.632740521326106
+        ]
+      },
+      "properties": {
+        "name": "资源861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33573106658439,
+          34.97274443748454
+        ]
+      },
+      "properties": {
+        "name": "资源871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6726525924987,
+          34.62566235092934
+        ]
+      },
+      "properties": {
+        "name": "资源881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.91354037005229,
+          34.11682390253991
+        ]
+      },
+      "properties": {
+        "name": "资源891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.85937019148855,
+          34.918914754472894
+        ]
+      },
+      "properties": {
+        "name": "资源901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.86463669306531,
+          34.68258210806615
+        ]
+      },
+      "properties": {
+        "name": "资源911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.86751461440872,
+          34.31442798501037
+        ]
+      },
+      "properties": {
+        "name": "资源921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.09928984770234,
+          34.9275640407245
+        ]
+      },
+      "properties": {
+        "name": "资源931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.79351997163329,
+          34.59901329420431
+        ]
+      },
+      "properties": {
+        "name": "资源941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.120544811966,
+          34.816618825275185
+        ]
+      },
+      "properties": {
+        "name": "资源951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.75080768205981,
+          34.50503748131601
+        ]
+      },
+      "properties": {
+        "name": "资源961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.76071907613621,
+          34.16151848807505
+        ]
+      },
+      "properties": {
+        "name": "资源971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30609331775676,
+          34.066404068821214
+        ]
+      },
+      "properties": {
+        "name": "资源981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.70662284260463,
+          34.21245830434552
+        ]
+      },
+      "properties": {
+        "name": "资源991"
+      }
+    }
+  ]
+}

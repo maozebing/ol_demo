@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>ol_demo</title>
+    <style>
+      html, body {
+        height: 100%;
+      }
+    </style>
+    <script>
+      window.aicGisMapUrl = 'http://cache1.arcgisonline.cn/arcgis/rest/services/ChinaOnlineCommunity_Mobile/MapServer';
+      window.amapUrl='http://webrd01.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=zh_cn&size=1&scale=1&style=8';
+      //window.bmapUrl='http://webrd01.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=zh_cn&size=1&scale=1&style=8';
+      //window.baseMapUrl ='http://127.0.0.1:18080/bingmaps/roadmap_cn/{z}/{x}/{y}.png';
+      window.baseDefautExtent = [58.26769087990477, 2.375241979696976, 150.40809591493854, 54.47999215091677];
+      window.baseDefautCenter = [113.61950699994816, 34.74833699965285];
+      window.baseDefautMinZoom = 1;
+      window.baseDefautMaxZoom = 18;
+      window.baseDefautZoom = 8;
+      window.dataProjection = 'EPSG:4326';
+      window.mapProjection = 'EPSG:4326';
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
