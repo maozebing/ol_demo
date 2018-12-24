@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import {LoadingBar} from 'iview'
 
 Vue.use(VueRouter)
 
@@ -14,7 +15,7 @@ const routes = [
         name: 'home',
         redirect: {name: 'aicGisMap'},
         component: resolve => require(['../pages/Home.vue'], resolve),
-        meta: { requiresAuth: true ,keepAlive:false},
+        meta: {requiresAuth: true, keepAlive: false},
         children: [
           {
             path: 'aicGisMap',
@@ -82,7 +83,11 @@ const router = new VueRouter({
 });
 
 router.beforeEach((to, from, next) => {
+  LoadingBar.start();
   next();
+});
+router.afterEach(route => {
+  LoadingBar.finish();
 });
 
 export default router;
