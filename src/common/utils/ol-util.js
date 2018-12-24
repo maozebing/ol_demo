@@ -97,6 +97,64 @@ class MapUtil {
   }
 
   /**
+   * 创建GeoJson地图
+   * @param mapUrl 服务地址
+   * @param target 地图div元素的名称
+   * @param extent 需要展现的范围
+   * @param center 中心点
+   * @param minZoom 最小缩放级别
+   * @param maxZoom 最大缩放级别
+   * @param zoom 初始化缩放级别
+   */
+  createGeoJsoneMap(mapUrl, target, extent, center, minZoom, maxZoom, zoom) {
+    let style = new Style({
+      fill: new Fill({
+        color: 'rgba(255, 255, 255, 0.6)'
+      }),
+      stroke: new Stroke({
+        color: '#319FD3',
+        lineDash:[1,2,3,4,5,6],//虚线
+        width: 1
+      }),
+      text: new Text({
+        font: '12px Calibri,sans-serif',
+        fill: new Fill({
+          color: '#000'
+        }),
+        stroke: new Stroke({
+          color: '#fff',
+          width: 3
+        })
+      })
+    });
+    let layers = [
+      new VectorLayer({
+        source: new VectorSource({
+          url: mapUrl,
+          format: new GeoJSON()
+        }),
+        style: function(feature) {
+          //style.getText().setText(feature.get('name'));
+          style.getFill().setColor(feature.get('color'));
+          return style;
+        }
+      })
+    ];
+    let map = new Map({
+      layers: layers,
+      target: target,
+      view: new View({
+        projection: this.mapProjection,
+        center: center,
+        minZoom: minZoom,
+        maxZoom: maxZoom,
+        zoom: zoom
+      }),
+    });
+    return map;
+  }
+
+  /**
    * 添加非聚合图层
    * @param olMap
    * @returns {ol.layer.Vector}

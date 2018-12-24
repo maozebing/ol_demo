@@ -63,6 +63,12 @@ const routes = [
             path: 'lineBus',
             component: resolve => require(['../pages/ol_echarts/LineBus.vue'], resolve),
             //meta: { requiresAuth: true }
+          },
+          {
+            name: 'hnMap',
+            path: 'hnMap',
+            component: resolve => require(['../pages/geoJson_map/HnMap.vue'], resolve),
+            //meta: { requiresAuth: true }
           }
         ]
       }

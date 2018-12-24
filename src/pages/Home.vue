@@ -31,7 +31,13 @@
               <MenuItem name="pie">Pie</MenuItem>
               <MenuItem name="lineBus">LineBus</MenuItem>
             </Submenu>
-
+            <Submenu name="4">
+              <template slot="title">
+                <Icon type="stats-bars"></Icon>
+                GEO地图
+              </template>
+              <MenuItem name="hnMap">河南省地图</MenuItem>
+            </Submenu>
           </div>
         </div>
       </Menu>
