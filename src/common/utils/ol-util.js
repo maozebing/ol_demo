@@ -294,7 +294,7 @@ class MapUtil {
 
   /**
    * 清除覆盖物图层位置
-   * @param overlay
+   * @param overlay 图层
    */
   clearOverlayPosition(overlay) {
     overlay.setPosition(undefined);
@@ -302,8 +302,8 @@ class MapUtil {
 
   /**
    * 设置覆盖物图层位置
-   * @param overlay
-   * @param coordinate
+   * @param overlay 图层
+   * @param coordinate 坐标
    */
   setOverlayPosition(overlay, coordinate) {
     overlay.setPosition(coordinate);
