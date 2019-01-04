@@ -17,10 +17,6 @@
               <Icon type="ios-people" />
               Amap
             </MenuItem>
-            <MenuItem name="echarts">
-              <Icon type="ios-people" />
-              Echarts
-            </MenuItem>
             <Submenu name="3">
               <template slot="title">
                 <Icon type="stats-bars"></Icon>

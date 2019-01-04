@@ -30,18 +30,6 @@ const routes = [
             //meta: { requiresAuth: true }
           },
           {
-            name: 'bmap',
-            path: 'bmap',
-            component: resolve => require(['../pages/Bmap.vue'], resolve),
-            //meta: { requiresAuth: true }
-          },
-          {
-            name: 'echarts',
-            path: 'echarts',
-            component: resolve => require(['../pages/Echarts.vue'], resolve),
-            //meta: { requiresAuth: true }
-          },
-          {
             name: 'scatter',
             path: 'scatter',
             component: resolve => require(['../pages/ol_echarts/Scatter.vue'], resolve),
