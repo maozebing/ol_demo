@@ -113,7 +113,7 @@ class MapUtil {
       }),
       stroke: new Stroke({
         color: '#319FD3',
-        lineDash:[1,2,3,4,5,6],//虚线
+        lineDash: [1, 2, 3, 4, 5, 6],//虚线
         width: 1
       }),
       text: new Text({
@@ -133,7 +133,7 @@ class MapUtil {
           url: mapUrl,
           format: new GeoJSON()
         }),
-        style: function(feature) {
+        style: function (feature) {
           //style.getText().setText(feature.get('name'));
           style.getFill().setColor(feature.get('color'));
           return style;
@@ -152,6 +152,17 @@ class MapUtil {
       }),
     });
     return map;
+  }
+
+  /**
+   * 设置地图位置大小
+   * @param map
+   * @param center
+   * @param zoom
+   */
+  setMapCenterAndZoom(map, center, zoom) {
+    map.getView().setCenter(center);
+    map.getView().setZoom(zoom);
   }
 
   /**

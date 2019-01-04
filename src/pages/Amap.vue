@@ -12,6 +12,7 @@
       <Button type="primary" @click="clearLineFeatures">清除线</Button>
       <Button type="primary" @click="addHeatmapLayer">添加热力图层</Button>
       <Button type="primary" @click="clearHeatmapLayer">清除热力图层</Button>
+      <Button type="primary" @click="recoverMap">恢复地图</Button>
       <Button type="primary" @click="exportMap">下载地图</Button>
     </div>
     <!--弹出层结构-->
@@ -88,11 +89,9 @@
           longitude: '',
           latitude: ''
         },
-        heatmapData:{
+        heatmapData: {
           type: "FeatureCollection",
-          features:[
-
-          ]
+          features: []
         }
       }
     },
@@ -109,8 +108,8 @@
         }
       },
 
-      createHeatmapData(){
-        let features=[];
+      createHeatmapData() {
+        let features = [];
         for (let i = 0; i < 1000; i++) {
           let x = 114 + Math.random();
           let y = 34 + Math.random();
@@ -125,7 +124,7 @@
             }
           })
         }
-        this.heatmapData.features=features;
+        this.heatmapData.features = features;
       },
 
       //创建地图
@@ -255,7 +254,7 @@
         //let data = '../../static/data/heatmap.kml';
         //olHeatmapLayer = mapHelper.addHeatmapLayerByKML(olMap, data);
 
-        olHeatmapLayer=mapHelper.addHeatmapLayerByJson(olMap,heatmapJson);
+        olHeatmapLayer = mapHelper.addHeatmapLayerByJson(olMap, heatmapJson);
       },
       //清除热力图层
       clearHeatmapLayer() {
@@ -275,6 +274,11 @@
       //弹出层内点击事件
       popupClick(data) {
         alert("你选中了点：[" + data.longitude + "," + data.latitude + "]");
+      },
+
+      //恢复地图初始大小位置
+      recoverMap() {
+        mapHelper.setMapCenterAndZoom(olMap, window.baseDefautCenter, window.baseDefautZoom);
       },
 
       //地图导出
